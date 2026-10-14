@@ -10,7 +10,7 @@ export const company = {
     'Croxent Technologies is an emerging IT services company helping businesses build reliable software and modernize digital operations.',
 
   // Canonical site URL placeholder. Set VITE_SITE_URL in .env for production.
-  siteUrl: import.meta.env.VITE_SITE_URL || 'https://www.example.com',
+  siteUrl: import.meta.env.VITE_SITE_URL || 'croxenttechnologies.vercel.app',
 
   contact: {
     email: 'support.croxenttechnologies@gmail.com',
